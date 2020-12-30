@@ -1,3 +1,3 @@
-# Welcome to my blog
+# The travels of Mandonkey
 
-I'm glad you are here. I plan to talk about ...
+This blog is going to provide my personal insights into the world
